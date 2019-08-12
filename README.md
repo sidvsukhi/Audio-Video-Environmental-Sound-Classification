@@ -12,6 +12,7 @@ The cardinal file which does all the preprocessing on the dataset including nois
 The MFCC of dataset <br/>
   ![dataset mfcc](https://github.com/sidvsukhi/Audio-Video-Environmental-Sound-Classification/blob/master/mfcc.png) </br>
 3. record_sudio.py- <br/>
-This is an application file that records 5 sec audio from your device and using our trained model predicts the sound and gives you the prediction.
+This is an application file that records 5 sec audio from your device and using our trained model predicts the sound and gives you the prediction. <br/>
 4. video_classify.py- <br/>
-This is also an application file that initially converts the video to audio, and then predicts the sound based on first 5 sec of the sound of audio file using out trained classifier.
+This is also an application file that initially converts the video to audio, and then predicts the sound based on first 5 sec of the sound of audio file using out trained classifier. <br/>
+![video_to_audio](https://github.com/sidvsukhi/Audio-Video-Environmental-Sound-Classification/blob/master/video%20to%20audio.jpg) <br/>
