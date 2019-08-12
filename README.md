@@ -15,4 +15,5 @@ The MFCC of dataset <br/>
 This is an application file that records 5 sec audio from your device and using our trained model predicts the sound and gives you the prediction. <br/>
 4. video_classify.py- <br/>
 This is also an application file that initially converts the video to audio, and then predicts the sound based on first 5 sec of the sound of audio file using out trained classifier. <br/>
-![video_to_audio](https://github.com/sidvsukhi/Audio-Video-Environmental-Sound-Classification/blob/master/video%20to%20audio.jpg) <br/>
+![video_to_audio](https://github.com/sidvsukhi/Audio-Video-Environmental-Sound-Classification/blob/master/video%20to%20audio.JPG) <br/>
+![video_predict](https://github.com/sidvsukhi/Audio-Video-Environmental-Sound-Classification/blob/master/predict.JPG)
